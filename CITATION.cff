@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng mã nguồn từ dự án này trong nghiên cứu, vui lòng trích dẫn theo thông tin sau."
+title: "Ứng dụng Học máy trong dự đoán xu hướng học tập trực tuyến của sinh viên"
+version: 1.0.0
+date-released: 2026-11-22
+license: GPL-3.0
+repository-code: "https://github.com/khoam2526017/student-learning-trend-prediction"
+authors:
+  - family-names: "Truong"
+    given-names: "Xuan Anh Khoa"
+    affiliation: "Trường Công nghệ Thông tin và Truyền thông, Đại học Cần Thơ"
+    email: "khoam2526017@gstudent.ctu.edu.vn"
